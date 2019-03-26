@@ -1,0 +1,33 @@
+.state {
+        fill:#d3d3d3;
+        stroke:#fff;
+        stroke-width:0.75;
+        stroke-opacity:1;
+}
+#SD {
+  fill:#4575b4;
+}
+#PA, #NV {
+  fill:#74add1;
+}
+#IL, #ID {
+  fill:#abd9e9;
+}
+#TX, #LA, #NE, #TN, #CA, #AR, #GA, #CT, #MO {
+  fill:#e0f3f8;
+}
+#DE, #WV, #HI, #WY, #NH, #ND, #AK, #VT, #ME, #MD, #RI, #MT {
+  fill:#bababa;
+}
+#FL, #NJ, #NM, #NC, #NY, #OK, #AZ, #UT, #KS {
+  fill:#fee090;
+}
+#CO, #OH, #MI {
+  fill:#fdae61;
+}
+#WA, #VA, #AL, #IN, #MA, #MN, #MS, #SC, #KY, #OR {
+  fill:#f46d43;
+}
+#WI, #IA {
+  fill:#d73027;
+}
